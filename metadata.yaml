@@ -9,7 +9,7 @@ contributor:
     - Phiz
     - Browne, H. K. (Hablot Knight)
     birthdate: 1815
-    deathdate: &id001 1882
+    deathdate: 1882
     gutenberg_agent_id: '24934'
     url: http://www.gutenberg.org/2009/agents/24934
     wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
@@ -26,11 +26,13 @@ creator:
     - Ainsworth, W. Harrison (William Harrison)
     - Ticheburn, Cheviot
     birthdate: 1805
-    deathdate: *id001
+    deathdate: 1882
     gutenberg_agent_id: '1056'
     url: http://www.gutenberg.org/2009/agents/1056
     wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36481#Auriolor-The-Elixir-of-Life
 gutenberg_issued: '2011-06-22'
 gutenberg_type: Text
 identifiers:
